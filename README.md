@@ -7,7 +7,7 @@
 ![Architect](https://img.shields.io/badge/-Architect-3955a3?style=for-the-badge&logo=microsoft%20visio&logoColor=fff)
 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
-[![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=fff)(https://github.com/dhkeum9886?tab=repositories&q=&type=&language=c%2B%2B&sort=)]
+![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![Python++](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
