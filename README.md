@@ -2,12 +2,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkeum9886&show_icons=true&theme=dracula)
 
-![AWS_Certified_Solutions_Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![AWS_Certified_Solutions_Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![Python++](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MicroPython](https://img.shields.io/badge/-MicroPython-2B2728?style=flat&logo=micropython&logoColor=white)
+![MicroPython](https://img.shields.io/badge/-MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
