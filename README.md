@@ -6,6 +6,9 @@
 
 ![Architect](https://img.shields.io/badge/-Architect-3955a3?style=for-the-badge&logo=microsoft%20visio&logoColor=fff)
 
+![AWS_Certified_Solutions_Architect_-_Professional](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_-_Professional-FF9900?style=flat&logo=amazonaws)
+
+
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![Python++](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
