@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkeum9886&show_icons=true&theme=dracula)
 
-![AWS_Certified_Solutions_Architect_-_Professional](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_-_Professional-FF9900?style=flat&logo=amazonaws)
+![AWS_Certified_Solutions_Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
