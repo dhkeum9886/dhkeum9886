@@ -4,8 +4,6 @@
 
 
 
-![Architect](https://img.shields.io/badge/-Architect-3955a3?style=for-the-badge&logo=microsoft%20visio&logoColor=fff)
-
 ![AWS_Certified_Solutions_Architect_-_Professional](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_-_Professional-FF9900?style=flat&logo=amazonaws)
 
 
