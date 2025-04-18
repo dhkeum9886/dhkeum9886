@@ -1,8 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[AWS Certified Solutions Architect - Professional 배지
-AWS Certified DevOps Engineer - Professional 배지](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.69d82ff1b2861e1089539ebba906c70b011b928a.png)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkeum9886&show_icons=true&theme=dracula)
 
 
