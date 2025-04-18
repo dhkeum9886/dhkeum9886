@@ -22,6 +22,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+![Node%20RED](https://img.shields.io/badge/-Node%20RED-8F0000?style=for-the-badge&logo=Node-RED&logoColor=fff)
+
+
+
 
 
 
