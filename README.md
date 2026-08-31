@@ -1,6 +1,6 @@
 ![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=dhkeum9886&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkeum9886&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=dhkeum9886&show_icons=true&theme=dracula)
 
 ![AWS_Certified_Solutions_Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
