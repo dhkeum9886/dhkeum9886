@@ -23,10 +23,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Node%20RED](https://img.shields.io/badge/-Node%20RED-8F0000?style=for-the-badge&logo=Node-RED&logoColor=fff)
 
-![AI%20LLM](https://img.shields.io/badge/AI-LLM-brightgreen)
-![Agentic%20AI](https://img.shields.io/badge/Agentic_AI-brightgreen)
-
-
+![LLM](https://img.shields.io/badge/LLM-%7Bcss%EC%BB%AC%EB%9F%AC%7D?style=for-the-badge&logo=%7B%EB%A1%9C%EA%B3%A0%7D&logoColor=%7B%EB%A1%9C%EA%B3%A0%EC%BB%AC%EB%9F%AC%7D)
+![Agentic%20AI](https://img.shields.io/badge/Agentic%20AI-%7Bcss%EC%BB%AC%EB%9F%AC%7D?style=for-the-badge&logo=%7B%EB%A1%9C%EA%B3%A0%7D&logoColor=%7B%EB%A1%9C%EA%B3%A0%EC%BB%AC%EB%9F%AC%7D)
 
 
 
