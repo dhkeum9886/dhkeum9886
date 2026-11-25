@@ -1,4 +1,4 @@
-![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=dhkeum9886&theme=dark)
+![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=dhkeum9886&theme=onedark)
 
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=dhkeum9886&show_icons=true&theme=dracula)
 
